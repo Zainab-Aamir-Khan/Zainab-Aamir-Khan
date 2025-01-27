@@ -4,7 +4,7 @@
 
   
 - 🌱 I'm actively pursuing knowledge in front-end development
-- 💬 Ask me about **HTML, CSS and JavaScript**
+- 💬 Ask me about **Python**
 - 📫 How to reach me **zainabaamir088@gmail.com**
 
 
