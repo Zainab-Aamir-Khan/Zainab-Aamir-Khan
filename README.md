@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zainab Amir</h1>
-<h3 align="center">A dedicated front-end developer from Pakistan</h3>
+<h3 align="center">A dedicated Python developer from Pakistan</h3>
 <img align="right" width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9HgneSNt2EbVsrodX89vQMqGT_uC6pLy2omsGK3EYARKC33heJu26gJpnD1GN1Y3iNFo&usqp=CAU"
 
   
