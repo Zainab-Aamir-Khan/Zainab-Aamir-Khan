@@ -3,7 +3,7 @@
 <img align="right" width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9HgneSNt2EbVsrodX89vQMqGT_uC6pLy2omsGK3EYARKC33heJu26gJpnD1GN1Y3iNFo&usqp=CAU"
 
   
-- 🌱 I'm actively pursuing knowledge in front-end development
+- 🌱 I'm actively pursuing knowledge in Python Programming
 - 💬 Ask me about **Python**
 - 📫 How to reach me **zainabaamir088@gmail.com**
 
